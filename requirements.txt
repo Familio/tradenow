@@ -1,3 +1,6 @@
+streamlit
+pandas
+numpy
 yfinance
 pandas-ta
-streamlit-lightweight-charts-v5
+streamlit-lightweight-charts
